@@ -10,7 +10,7 @@ const app = express();
 // Bodyparser Middleware
 app.use(bodyParser.json());
 
-// DB Config
+// DB Config - getting the url
 const db = require('./config/keys').mongoURI;
 
 // Connect to Mongo

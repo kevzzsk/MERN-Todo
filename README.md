@@ -1,5 +1,5 @@
-# MERN-Todo
-Exploration of MERN stack by creating a todo app which uses Redux as state management and Mongodb as database. The app is deployed in Heroku.
+# MERN-ShoppingList
+Exploration of MERN stack by creating a shopping list app which uses Redux as state management and Mongodb as database. The app is deployed in Heroku.
 
 ### Demo : https://safe-wildwood-78116.herokuapp.com/
 
